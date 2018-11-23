@@ -2,9 +2,9 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace HardwareShop.Data.Migrations
+namespace HardwareShop.Migrations
 {
-    public partial class CreateIdentitySchema : Migration
+    public partial class InitialCreae : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
